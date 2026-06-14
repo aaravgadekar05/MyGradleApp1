@@ -1,4 +1,3 @@
-*Jenkinsfile Gradle:*
 pipeline {
     agent any  // Use any available agent
 
